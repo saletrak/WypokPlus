@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="Ogólne">
+
+        <SwitchPreference
+            android:key="pref_1"
+            android:title="Preferencja"
+            android:summary="To jest opis preferencji" />
+
+        <SwitchPreference
+            android:key="pref_nightTheme"
+            android:title="Styl nocny"
+            android:summary="Ciemny motyw kolorystyczny aplikacji" />
+
+    </PreferenceCategory>
+
+    <!--<PreferenceCategory
+        android:title="Widget">
+
+        <ListPreference
+            android:key="pref_widget_theme"
+            android:title="Motyw widgetu"
+            android:entries="@array/pref_widget"
+            android:entryValues="@array/pref_widget_values"
+            android:summary="Ustaw schemat kolorystyczny widgetu"
+            android:defaultValue="1"/>
+
+    </PreferenceCategory>-->
+
+
+</PreferenceScreen>

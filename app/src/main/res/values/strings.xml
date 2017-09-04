@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Wypok Plus</string>
     <string name="login">Zaloguj się</string>
+    <string name="title_activity_navi">navi</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
 </resources>

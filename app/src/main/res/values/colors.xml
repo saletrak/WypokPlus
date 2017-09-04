@@ -2,5 +2,12 @@
 <resources>
     <color name="colorPrimary">#4383AF</color>
     <color name="colorPrimaryDark">#2E6E99</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccent">#FF5917</color>
+    <color name="white">#FFFFFF</color>
+    <color name="activityBackground">#ECF0F1</color>
+
+    <color name="night_colorPrimary">#1A1A1A</color>
+    <color name="night_colorPrimaryDark">#141414</color>
+    <color name="night_activityBackground">#242424</color>
+    <color name="night_entryBackground">#2C2C2C</color>
 </resources>

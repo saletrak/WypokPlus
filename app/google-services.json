@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "36386377397",
+    "firebase_url": "https://wypokplus.firebaseio.com",
+    "project_id": "wypokplus",
+    "storage_bucket": "wypokplus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36386377397:android:3163e7e323277f25",
+        "android_client_info": {
+          "package_name": "saletrak.wypokplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36386377397-lq3o61qse2hkrr3ivs43tr2a4grbsmvi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "saletrak.wypokplus",
+            "certificate_hash": "30927c296917ac3d8481d713693321f2a736137f"
+          }
+        },
+        {
+          "client_id": "36386377397-77pso6m3ro2upeev8plfrfc1mj4165k1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoh-9tPp0onwP6TAzOMqkZI2pczWQ9Srw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36386377397-77pso6m3ro2upeev8plfrfc1mj4165k1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
