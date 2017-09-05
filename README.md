@@ -1,0 +1,3 @@
+# WypokPlus
+
+Amatorska aplikacja wykopu
